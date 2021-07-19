@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lovecraft5
+- 👋 Hi, I’m @Eduardo Molina de Quevedo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small and simple proyects
